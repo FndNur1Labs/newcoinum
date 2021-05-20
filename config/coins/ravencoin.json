@@ -1,0 +1,10 @@
+{
+    "name": "RavenCoin",
+    "symbol": "RVN",
+    "algorithm": "kawpow",
+	"site": "https://ravencoin.org/",
+    "blockExplorer": {
+        "block": "https://ravencoin.network/block/",
+        "tx": "https://ravencoin.network/tx/"
+    }
+}
