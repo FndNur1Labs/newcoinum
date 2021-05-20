@@ -1,0 +1,2 @@
+# newcoinum
+this  CoiniumServ new
