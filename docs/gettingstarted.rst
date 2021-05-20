@@ -37,6 +37,11 @@ If you like you can get the sources of the project and compile yourself.
   * Linux_
   * MacOS_
   
+Compiling Fixed
+=====================
+$ apt install nuget
+$ nuget restore
+  
 Then you have to configure the server to get it working.
 
 .. _Mono: http://www.mono-project.com/
