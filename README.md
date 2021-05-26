@@ -52,7 +52,7 @@ Start by reading our [FAQ](https://github.com/bonesoul/CoiniumServ/wiki/FAQ) and
 
 ##### Algorithms
 
-* __Scrypt__, __SHA256d__, __X11__, __X13__, X14, X15, X17, Blake, Fresh, Fugue, Groestl, Keccak, NIST5, Scrypt-OG, Scrypt-N, SHA1, SHAvite3, Skein, Qubit, C11
+* __Scrypt__, __SHA256d__, __X11__, __X13__, X14, X15, X17, Blake, Fresh, Fugue, Groestl, Keccak, NIST5, Scrypt-OG, Scrypt-N, SHA1, SHAvite3, Skein, Qubit, C11, Kawpow
 
 ##### Protocols
 
