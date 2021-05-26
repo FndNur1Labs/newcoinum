@@ -1,0 +1,11 @@
+{
+    "name": "Etherum",
+    "symbol": "ETH",
+    "algorithm": "ethash",
+    "site": "https://ethereum.org/",
+    "blockExplorer": {
+        "block": "https://www.blockchain.com/eth/block/",
+        "tx": "https://www.blockchain.com/eth/tx/",
+        "address": "https://www.blockchain.com/eth/address/"
+    }
+}
