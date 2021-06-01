@@ -59,8 +59,6 @@ namespace CoiniumServ.Algorithms.Implementations
                 HashFactory.Crypto.CreateWhirlpool(),
                 HashFactory.Crypto.CreateSHA512(),
 				HashFactory.Crypto.CreateHaval_5_256(),
-				HashFactory.Crypto.CreateTiger_5_256(),
-				HashFactory.Crypto.Lyra2(),
             };
 
             Multiplier = 1;
