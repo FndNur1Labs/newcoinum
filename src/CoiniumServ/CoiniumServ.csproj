@@ -131,6 +131,7 @@
     <Compile Include="Algorithms\Implementations\Fugue.cs" />
     <Compile Include="Algorithms\Implementations\Groestl.cs" />
     <Compile Include="Algorithms\Implementations\Keccak.cs" />
+	<Compile Include="Algorithms\Implementations\KawPow.cs" />
     <Compile Include="Algorithms\Implementations\Nist5.cs" />
     <Compile Include="Algorithms\Implementations\Qubit.cs" />
     <Compile Include="Algorithms\Implementations\Scrypt.cs" />
